@@ -5,6 +5,7 @@
   "id" : 1,
   "description" : "Everything is accepted by this definition.",
   "evaluationOrder" : 1,
+  "logoutType" : "BACK_CHANNEL",
   "proxyPolicy" : {
     "@class" : "org.apereo.cas.services.RegexMatchingRegisteredServiceProxyPolicy",
     "pattern": "^https?://.*"
